@@ -236,7 +236,6 @@ PyHamcrest==1.9.0
 pylint==2.4.4
 pymongo==3.10.1
 PyMySQL==0.9.3
-pyodbc==4.0.30
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
 pyperclip==1.7.0
