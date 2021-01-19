@@ -1,0 +1,1 @@
+worker: python local_business_scrape.py
